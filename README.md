@@ -1,4 +1,4 @@
-# <img src="./images/logo.png" style="width: 36px; vertical-align: middle;"> 아카펠라 연습 스페이스 "WeSync"
+# <img src="./images/logo.png" style="width: 36px; vertical-align: middle;"> 아카펠라 연습 스페이스 "weSync"
 
 > 아카펠라 팀관리에 어려움이 있으신가요?📢<br>
 팀연습이 끝난 후 집에서 개인연습까지 하고 싶으신가요?🎤<br>
